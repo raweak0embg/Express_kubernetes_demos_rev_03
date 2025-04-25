@@ -86,3 +86,5 @@ Deberías obtener una respuesta `200 OK` con un listado de productos y un token 
 | **Docs**     | [http://localhost:9090/docs](http://localhost:9090/docs)       | Documentación Swagger           |
 | **MySQL**    | localhost:3306                                                 | Base de datos `stellar_commerce` |
 
+
+# PR Merge: 2026-07-26 06:14:12
